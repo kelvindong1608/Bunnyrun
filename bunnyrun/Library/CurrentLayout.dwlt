@@ -65,7 +65,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: Tall
+  m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,7 +90,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 6001
+  controlID: 9
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 6071
+  controlID: 29
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -307,20 +307,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Kelvin Dong\Documents\project\software development\redcube\bunny
-    run\bunny run
+  m_LastProjectPath: D:\LEARNING\dev\bunnyrun\bunnyrun
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 12260000
-    m_LastClickedID: 9746
-    m_ExpandedIDs: 000000000e26000000ca9a3bffffff7f
+    m_SelectedIDs: 10260000
+    m_LastClickedID: 9744
+    m_ExpandedIDs: 000000001026000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -348,7 +347,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000e26000000ca9a3bffffff7f
+    m_ExpandedIDs: 0000000010260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -400,7 +399,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 208.16016}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &13
@@ -432,15 +431,15 @@ MonoBehaviour:
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     m_HBaseRangeMin: -426.5
     m_HBaseRangeMax: 426.5
-    m_VBaseRangeMin: -346.5
-    m_VBaseRangeMax: 346.5
+    m_VBaseRangeMin: -239.90625
+    m_VBaseRangeMax: 239.90625
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -506,14 +505,14 @@ MonoBehaviour:
     width: 853
     height: 710
   m_SceneLighting: 1
-  lastFramingTime: 47315.08172865861
+  lastFramingTime: 61.421223985192874
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 7.51, y: -3.02, z: 0}
+    m_Target: {x: -3.33, y: -1.42, z: 0}
     speed: 2
-    m_Value: {x: 7.51, y: -3.02, z: 0}
+    m_Value: {x: -3.33, y: -1.42, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -540,9 +539,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 22
+    m_Target: 35.081627
     speed: 2
-    m_Value: 22
+    m_Value: 35.081627
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -581,8 +580,8 @@ MonoBehaviour:
     height: 301
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80260000
-    m_LastClickedID: 9856
+    m_SelectedIDs: 
+    m_LastClickedID: 0
     m_ExpandedIDs: 1afcffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

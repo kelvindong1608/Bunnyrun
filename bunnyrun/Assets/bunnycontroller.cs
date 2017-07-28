@@ -23,8 +23,20 @@ public class bunnycontroller : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (bunnyHurtTime == -1) {
-			if (Input.GetButtonUp ("Jump") && jumpLeft>0) {
-				myRigidBody.AddForce (transform.up * bunnyJumpForce);
+			if (Input.GetButtonUp ("Jump") && jumpLeft>0) 
+			{	
+				if (myRigidBody.velocity.y < 0) 
+				{
+					myRigidBody.velocity = Vector2.zero;
+				}
+				if (jumpLeft == 1) {
+					myRigidBody.AddForce (transform.up * bunnyJumpForce * 0.75f);
+				} 
+				else
+				{
+					myRigidBody.AddForce (transform.up * bunnyJumpForce);
+				}
+
 				jumpLeft--;
 			}
 			myAnim.SetFloat ("vVelocity", myRigidBody.velocity.y);

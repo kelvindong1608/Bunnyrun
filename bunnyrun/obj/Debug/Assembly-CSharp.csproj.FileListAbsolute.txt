@@ -30,3 +30,35 @@ C:\Users\Kelvin Dong\Documents\project\software development\redcube\bunny run\bu
 C:\Users\Kelvin Dong\Documents\project\software development\redcube\bunny run\bunny run\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Kelvin Dong\Documents\project\software development\redcube\bunny run\bunny run\obj\Debug\Assembly-CSharp.dll
 C:\Users\Kelvin Dong\Documents\project\software development\redcube\bunny run\bunny run\obj\Debug\Assembly-CSharp.pdb
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Assembly-CSharp.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\nunit.framework.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEditor.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.UI.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Mono.Cecil.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Unity.DataContract.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\ExCSS.Unity.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Unity.CecilTools.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEditor.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.UI.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\nunit.framework.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\LEARNING\dev\bunnyrun\bunnyrun\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\LEARNING\dev\bunnyrun\bunnyrun\obj\Debug\Assembly-CSharp.dll
+D:\LEARNING\dev\bunnyrun\bunnyrun\obj\Debug\Assembly-CSharp.pdb
